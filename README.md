@@ -1,6 +1,8 @@
 # Team8Repository1
 
-# Dani Stewart - I love to kayak
+# Dani Stewart 
+
+I love to kayak
 
 #ChrisBritez
 
@@ -11,4 +13,5 @@ Hello, I like to play Piano
 I'm Tall
 
 #Nate Hepworth
+
 I have a dog
