@@ -4,14 +4,14 @@
 
 I love to kayak
 
-#ChrisBritez
+# Chris Britez
 
 Hello, I like to play Piano
 
-#Dallas Bedford
+# Dallas Bedford
 
 I'm Tall
 
-#Nate Hepworth
+# Nate Hepworth
 
 I have a dog
